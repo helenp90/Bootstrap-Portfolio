@@ -1,0 +1,132 @@
+.container-fluid {
+    background-color: #ffffff;
+}
+
+.container-fluid .navbar-header .navbar-brand {
+    margin-left: 30px;
+}
+
+.navbar-header .navbar-brand {
+    padding: 45px;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.nav .navbar-nav .navbar-right .text-center {
+    padding-top: 40px;
+    padding-right: 30px;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    border: 50px #4aaaa5;
+}
+
+.navbar-right {
+    padding-top: 25px;
+    margin-right: 120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.portfolio {
+    color: grey;
+    padding-right: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.contact {
+    color: grey;
+    padding-right: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box {
+    width: 620px;
+    height: 350px;
+    margin: 60px;
+    margin-left: 70px;
+    padding: 50px;
+    background-color: white;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    padding: 10;
+}
+
+.img-thumbnail {
+    margin-top: 20px;
+    width: 260px;
+    height: 250px;
+}
+
+.box1 {
+    width: 320px;
+    height: 200px;
+    margin: 60px;
+    margin-right: 70px;
+    padding: 10px;
+    background-color: white;
+}
+
+.box2 {
+    width: 400px;
+    height: 350px;
+    margin: 60px;
+    margin-left: 70px;
+    padding: 50px;
+    background-color: white;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+.icons {
+    margin-left: 65px;
+    margin-top: 40px;
+}
+
+body {
+    background-image: url("https://github.com/helenp90/Responsive-Portfolio/blob/master/images%20copy/regal.png?raw=true");
+    margin: 30px;
+}
+
+footer {
+    background-color: lightgrey;
+}
+
+.container {
+    padding: 60px;
+    background-color: lightgrey;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.col-lg-12 {
+    margin-bottom: 100px;
+    margin-left: 30px;
+}
+
+h3 {
+    padding: 5px;
+}
+.col-lg-7{
+    margin-left: 40px;
+}
+img{
+    padding: 5px;
+}
+
+Adding responsiveness via bootstrap
+//
+//make the row width 100%
+//when screen is 960 the columns show as normal
+//when screen is 768 the view stays the same but the columns and boxes shrink with the view. Nav bar stays horizontal
+// when screen is 640 the nav bar turns into a hamburger.
