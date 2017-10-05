@@ -109,8 +109,8 @@ h3 {
 
 
 Adding responsiveness via bootstrap
-//
-//make the row width 100%
+
+make the row width 100
 //when screen is 960 the columns show as normal
 //when screen is 768 the view stays the same but the columns and boxes shrink with the view. Nav bar stays horizontal
 // when screen is 640 the nav bar turns into a hamburger.
